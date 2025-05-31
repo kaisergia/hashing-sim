@@ -229,7 +229,7 @@ export default function Home() {
         </div>
       )}
     </div>
-    <footer className="mt-8 text-gray-500 text-xs sm:text-sm text-center">Modern UI Hash Table Visualizer &copy; 2025</footer>
+    <footer className="mt-8 text-gray-500 text-xs sm:text-sm text-center">Modern UI Hash Table Visualizer by KaiSergia/G.S &copy; 2025</footer>
   </main>
 );
   // ...existing code...
